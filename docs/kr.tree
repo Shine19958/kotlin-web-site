@@ -124,7 +124,7 @@
 
         </toc-element>
         <toc-element id="mpp-run-tests.md" toc-title="Running tests"/>
-        <toc-element toc-title="Publishing and deployment">
+        <toc-element toc-title="Artifact compilation">
             <toc-element id="mpp-configure-compilations.md"/>
             <toc-element id="mpp-build-native-binaries.md"/>
         </toc-element>

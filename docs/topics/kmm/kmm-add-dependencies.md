@@ -1,4 +1,4 @@
-[//]: # (title: Multiplatform libraries)
+[//]: # (title: Multiplatform library dependencies)
 
 You can add dependencies on libraries that have adopted Kotlin Multiplatform technology, such as 
 [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) and [SQLDelight](https://github.com/cashapp/sqldelight). 
